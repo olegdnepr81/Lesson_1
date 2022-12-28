@@ -2,7 +2,7 @@
 /shelf/
 /workspace.xml
 # Intellij
-/.idea
+.idea
 *.iml
 *.iws
 
