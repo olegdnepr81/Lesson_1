@@ -49,7 +49,7 @@
                             <archive>
                                 <manifest>
                                     <mainClass>
-                                        org.example.app
+                                        org.example.App
                                     </mainClass>
                                 </manifest>
                             </archive>
